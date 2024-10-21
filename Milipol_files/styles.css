@@ -1,18 +1,17 @@
         #mainbody {
             font-family: 'Proxima Nova Alt Regular';
-            width: 900px;
-            height: 341px;            
+            width: 1100px;
+            height: 500px;            
             color: Gray;
             margin-bottom: 10px;
             border: 1px solid #ccc;
-            background-image: url('milipol-2025.png');
         }
 
         #timer {
             text-align: center;
             font-weight: 100;
-            margin-top: 40px;
-            margin-left: 250px;
+            margin-top: 80px;
+            margin-left: 350px;
             margin-bottom: 10px;
         }
 
@@ -40,7 +39,7 @@
 
         #Message {
             line-height: 1;
-            font-size: 24px;
+            font-size: 28px;
             padding: 25px;
             margin-top: 30px;
             margin-left: 300px;
