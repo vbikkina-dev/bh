@@ -1,0 +1,70 @@
+        #mainbody {
+            font-family: 'Proxima Nova Alt Regular';
+            width: 900px;
+            height: 341px;            
+            color: Gray;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            background-image: url('milipol-2025.png');
+        }
+
+        #timer {
+            text-align: center;
+            font-weight: 100;
+            margin-top: 40px;
+            margin-left: 250px;
+            margin-bottom: 10px;
+        }
+
+        #top {
+            text-align: center;
+            font-weight: 800;
+            font-size: 24px;
+        }
+
+        #bottom {
+            font-family: 'Proxima Nova Alt Regular';
+            text-align: center;
+            font-weight: 500;
+            font-size: 18px;
+            margin-left: 200px;
+        }
+
+        #timer div {
+            display: inline-block;
+            line-height: 1;
+            font-size: 26px;
+            padding: 25px;
+            font-weight: bold;
+        }
+
+        #Message {
+            line-height: 1;
+            font-size: 24px;
+            padding: 25px;
+            margin-top: 30px;
+            margin-left: 300px;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
+        #timer div span {
+            display: block;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        html,
+        body {
+            height: 100%;
+        }
+
+        html {
+            display: table;
+            margin: auto;
+        }
+
+        body {
+            display: table-cell;
+            vertical-align: middle;
+        }
