@@ -9,7 +9,7 @@
 
         #timer {
             text-align: center;
-            font-weight: 100;
+            font-weight: 600;
             margin-top: 80px;
             margin-left: 350px;
             margin-bottom: 10px;
@@ -32,14 +32,14 @@
         #timer div {
             display: inline-block;
             line-height: 1;
-            font-size: 26px;
+            font-size: 34px;
             padding: 25px;
             font-weight: bold;
         }
 
         #Message {
             line-height: 1;
-            font-size: 28px;
+            font-size: 30px;
             padding: 25px;
             margin-top: 30px;
             margin-left: 300px;
